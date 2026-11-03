@@ -1,0 +1,13 @@
+doc_id,titulo,area_responsavel,vigencia_inicio,versao,status,arquivo
+POL-001,Política de Onboarding,Pessoas e Cultura,2026-02-01,2.0,vigente,POL-001_onboarding.md
+POL-002,Política de Férias,Pessoas e Cultura,2026-01-01,3.1,vigente,POL-002_ferias.md
+POL-003,Política de Benefícios,Pessoas e Cultura,2026-01-01,4.0,vigente,POL-003_beneficios.md
+POL-004,Política de Home Office (versão 1),Pessoas e Cultura,2024-03-01,1.0,revogada,POL-004_home_office_v1_REVOGADA.md
+POL-005,Política de Trabalho Híbrido (versão 2),Pessoas e Cultura,2026-01-01,2.0,vigente,POL-005_trabalho_hibrido_v2.md
+POL-006,Política de Reembolso de Despesas,Financeiro,2026-01-01,2.2,vigente,POL-006_reembolso.md
+POL-007,Política de Avaliação de Desempenho,Pessoas e Cultura,2026-01-01,1.3,vigente,POL-007_avaliacao_desempenho.md
+POL-008,Política de Desligamento,Pessoas e Cultura,2026-01-01,1.1,vigente,POL-008_desligamento.md
+POL-009,Política de Segurança da Informação,Segurança da Informação,2026-01-01,3.0,vigente,POL-009_seguranca_informacao.md
+POL-010,Política de Treinamento e Desenvolvimento,Pessoas e Cultura,2026-01-01,2.0,vigente,POL-010_treinamento.md
+POL-011,Código de Conduta e Canal de Denúncias,Compliance,2026-01-01,1.0,vigente,POL-011_codigo_conduta.md
+FAQ-001,Perguntas Frequentes de Novos Colaboradores,Pessoas e Cultura,2026-02-01,1.2,vigente,FAQ-001_perguntas_frequentes.md

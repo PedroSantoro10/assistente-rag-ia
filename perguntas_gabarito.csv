@@ -1,0 +1,11 @@
+pergunta_id,pergunta,doc_esperado,secao_esperada,resposta_esperada
+P01,Com quantos dias de antecedência devo solicitar minhas férias?,POL-002,Como solicitar,30 dias
+P02,Quantos dias por semana posso trabalhar de forma remota?,POL-005,Regra de trabalho remoto,até 3 dias por semana (a POL-004 está revogada e não deve ser usada)
+P03,Qual é o valor do vale-refeição por dia?,POL-003,Vale-refeição,40 reais por dia útil
+P04,Qual é o prazo para enviar uma nota fiscal de reembolso?,POL-006,Prazo para envio,15 dias corridos após a despesa
+P05,Qual é o tamanho mínimo da senha corporativa?,POL-009,Senhas,12 caracteres
+P06,Em quais meses acontece a avaliação de desempenho?,POL-007,Ciclo,junho e dezembro
+P07,Em quantos dias devo devolver o notebook após o desligamento?,POL-008,Devolução de equipamentos,5 dias úteis após o último dia de trabalho
+P08,Posso colocar dados de clientes em uma ferramenta de inteligência artificial externa?,POL-009,Uso de ferramentas de inteligência artificial externas,"não, sem aprovação prévia da Segurança da Informação"
+P09,Qual é o orçamento anual de treinamento por colaborador?,POL-010,Orçamento,2000 reais por ano
+P10,Qual é a política de estacionamento da empresa?,nao_encontrado,nao_encontrado,não há política sobre estacionamento no corpus; resposta esperada: mensagem de não encontrado
